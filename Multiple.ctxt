@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Multiple
+comment1.params=value
+comment1.target=Multiple(int)
+comment2.params=
+comment2.target=Multiple()
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=value
+comment4.target=void\ setValue(int)
+numComments=5

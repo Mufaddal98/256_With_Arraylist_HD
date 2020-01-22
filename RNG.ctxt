@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RNG
+comment1.params=minimumValue\ maximumValue
+comment1.target=RNG(int,\ int)
+comment2.params=
+comment2.target=RNG()
+comment3.params=line
+comment3.target=int\ getMultiple(java.lang.String)
+comment4.params=size
+comment4.target=int\ genRandom(int)
+comment5.params=
+comment5.target=java.lang.String[]\ readMultiplesFile()
+comment6.params=
+comment6.target=java.lang.String\ selectMultipleLine()
+numComments=7

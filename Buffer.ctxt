@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Buffer
+comment1.params=value
+comment1.target=void\ addToBufferOne(int)
+comment2.params=value
+comment2.target=void\ addToBufferTwo(int)
+comment3.params=
+comment3.target=boolean\ checkForBufferOneLimit()
+numComments=4
